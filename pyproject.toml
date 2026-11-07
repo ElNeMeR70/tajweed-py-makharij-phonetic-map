@@ -1,0 +1,7 @@
+[project]
+name = "tajweed-py-makharij-phonetic-map"
+version = "1.0.0"
+description = "17 Articulation Points (Makharij) & Sifat Feature Matrix (خريطة مخارج الحروف السبعة عشر وصفاتها الصوتية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
